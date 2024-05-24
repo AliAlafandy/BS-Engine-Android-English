@@ -23,7 +23,7 @@ class CreditsState extends MusicBeatState
 	private var grpOptions:FlxTypedGroup<Alphabet>;
 	private var iconArray:Array<AttachedSprite> = [];
 	private static var creditsStuff:Array<Dynamic> = [ //Name - Icon name - Description - Link - BG Color
-	['BS Engine Mobile'],
+	['BS Engine'],
 	['Ali Alafandy', 'ali', 'Converter Language To English', 'https://youtube.com/channel/UClK5uzYLZDUZmbI6O56J-QA', '000080'],
 	['Matheus Silver', 'silver', 'Coder/Diretor do projeto', 'https://www.youtube.com/@matheussilver', 'FFFFFF'],
 	['Bright Zirimund', 'bright', 'Otimizaçao/Adaptaçao Artistica', 'https://www.youtube.com/@matheussilver', 'C30085'],
