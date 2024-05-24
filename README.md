@@ -1,2 +1,2 @@
-# Friday Night Funkin' - BS Engine
-English Language By Ali Alafandy (Me)
+# Friday Night Funkin' - BS Engine Android
+But It English Language
